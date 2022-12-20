@@ -1,8 +1,8 @@
-const add = function() {
-	
+const add = function(a,b) {
+	return a + b;
 };
 
-const subtract = function() {
+const subtract = function(a,b) {
 	
 };
 
@@ -15,7 +15,7 @@ const multiply = function() {
 };
 
 const power = function() {
-	
+	  
 };
 
 const factorial = function() {
